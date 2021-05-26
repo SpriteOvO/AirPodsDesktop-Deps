@@ -1,0 +1,2 @@
+# Don't do any conversion on text files
+* -text
